@@ -20,5 +20,5 @@ int main()
    printf("Alphabetic_Letters=%d,"
        "Decimal_digits=%d\n", alphabet, number);
        
-         return 0;
-         }
+  return 0;
+}
